@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="650" viewBox="0 0 640 650" role="img" aria-label="03-armory-mobile">
+ <title>03-armory-mobile</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411"/><stop offset="1" stop-color="#080a0a"/></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0"/><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4"/><stop offset="1" stop-color="#eee6d3" stop-opacity="0"/></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1"/><stop offset="1" stop-color="#0c0f0e" stop-opacity="0"/></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035"/></pattern>
+ <clipPath id="bounds"><rect width="640" height="650" rx="2"/></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="640" height="650" fill="url(#bg)"/><rect width="640" height="650" fill="url(#linen)"/>
+ <path d="M430 0L310 650 M540 0L420 650" stroke="#60645c" opacity=".1"/>
+ <text x="35" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">02 / THE ARMORY</text><text x="35" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="400" fill="#e6dfd0">The tools behind the mask.</text><text x="35" y="194" font-family="Consolas,monospace" font-size="21" font-weight="400" fill="#b5a27c">BACKEND / SYSTEMS</text><text x="35" y="242" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">Java · Spring Boot · REST APIs</text><text x="35" y="279" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">WebSockets · Spring Data JPA · H2</text><text x="35" y="342" font-family="Consolas,monospace" font-size="21" font-weight="400" fill="#b5a27c">WEB / INTERFACES</text><text x="35" y="390" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">TypeScript · Next.js · Tailwind CSS</text><text x="35" y="427" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">HTML · CSS · JavaScript</text><text x="35" y="490" font-family="Consolas,monospace" font-size="21" font-weight="400" fill="#b5a27c">BUILD / VERIFY</text><text x="35" y="538" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">Maven · JUnit 5 · Git · GitHub</text><text x="35" y="575" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Node.js · pnpm</text><circle cx="119" cy="588" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-3 -14;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="276" cy="303" r="1.1" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;14 -21;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="23" cy="137" r="0.9" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;14 -25;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="322" cy="41" r="0.8" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-10 -30;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="45" cy="207" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-7 -22;0 0" dur="17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="579" cy="555" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 -29;0 0" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="155" cy="425" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 -17;0 0" dur="19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="449" cy="309" r="0.6" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-9 -11;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="575" cy="367" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;3 -19;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="498" cy="491" r="0.8" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;10 -11;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="419" cy="78" r="1.1" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;16 -32;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="289" cy="221" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;1 -31;0 0" dur="17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="589" cy="226" r="1.3" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;3 -18;0 0" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="294" cy="312" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;18 -21;0 0" dur="19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="236" cy="338" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;4 -27;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="25" cy="291" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;14 -26;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="551" cy="618" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-2 -20;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="64" cy="449" r="0.6" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-11 -12;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle>
+ <rect x="1" y="1" width="638" height="648" fill="none" stroke="#393e37"/>
+ <path d="M22 47V22H51M589 22H618V47M22 603V628H51M589 628H618V603" fill="none" stroke="#b5a27c" stroke-width="1.5"/>
+ </g></svg>

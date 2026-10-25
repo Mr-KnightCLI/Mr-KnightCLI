@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="365" viewBox="0 0 1280 365" role="img" aria-label="06-oss-radar">
+ <title>06-oss-radar</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411" /><stop offset="1" stop-color="#080a0a" /></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0" /><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4" /><stop offset="1" stop-color="#eee6d3" stop-opacity="0" /></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1" /><stop offset="1" stop-color="#0c0f0e" stop-opacity="0" /></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035" /></pattern>
+ <clipPath id="bounds"><rect width="1280" height="365" rx="2" /></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="1280" height="365" fill="url(#bg)" /><rect width="1280" height="365" fill="url(#linen)" />
+ <path d="M1070 0L950 365 M1180 0L1060 365" stroke="#60645c" opacity=".1" />
+ <text x="55" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">MERGED / TanbirRamim/open-source-radar</text><text x="55" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="400" fill="#e6dfd0">Open Source Radar</text><text x="55" y="176" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#e6dfd0">A clearer rule. Tested at the edges.</text><text x="55" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#a7a8a5">Extracted the stale-claim decision into a shared helper.</text><text x="55" y="260" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#a7a8a5">Added cutoff tests and connected the scheduled workflow.</text><rect x="55" y="297" width="148" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="69" y="322" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">JavaScript</text><rect x="215" y="297" width="196" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="229" y="322" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">GitHub Actions</text><rect x="423" y="297" width="100" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="437" y="322" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">Merged</text><g><circle cx="1121" cy="196" r="53" fill="none" stroke="#424740" stroke-dasharray="60 18 7 18" /><path d="M1174.00 196.00L1182.00 196.00" stroke="#b5a27c" opacity=".7" /><path d="M1172.19 209.72L1176.06 210.75" stroke="#b5a27c" opacity=".7" /><path d="M1166.90 222.50L1170.36 224.50" stroke="#b5a27c" opacity=".7" /><path d="M1158.48 233.48L1164.13 239.13" stroke="#b5a27c" opacity=".7" /><path d="M1147.50 241.90L1149.50 245.36" stroke="#b5a27c" opacity=".7" /><path d="M1134.72 247.19L1135.75 251.06" stroke="#b5a27c" opacity=".7" /><path d="M1121.00 249.00L1121.00 257.00" stroke="#b5a27c" opacity=".7" /><path d="M1107.28 247.19L1106.25 251.06" stroke="#b5a27c" opacity=".7" /><path d="M1094.50 241.90L1092.50 245.36" stroke="#b5a27c" opacity=".7" /><path d="M1083.52 233.48L1077.87 239.13" stroke="#b5a27c" opacity=".7" /><path d="M1075.10 222.50L1071.64 224.50" stroke="#b5a27c" opacity=".7" /><path d="M1069.81 209.72L1065.94 210.75" stroke="#b5a27c" opacity=".7" /><path d="M1068.00 196.00L1060.00 196.00" stroke="#b5a27c" opacity=".7" /><path d="M1069.81 182.28L1065.94 181.25" stroke="#b5a27c" opacity=".7" /><path d="M1075.10 169.50L1071.64 167.50" stroke="#b5a27c" opacity=".7" /><path d="M1083.52 158.52L1077.87 152.87" stroke="#b5a27c" opacity=".7" /><path d="M1094.50 150.10L1092.50 146.64" stroke="#b5a27c" opacity=".7" /><path d="M1107.28 144.81L1106.25 140.94" stroke="#b5a27c" opacity=".7" /><path d="M1121.00 143.00L1121.00 135.00" stroke="#b5a27c" opacity=".7" /><path d="M1134.72 144.81L1135.75 140.94" stroke="#b5a27c" opacity=".7" /><path d="M1147.50 150.10L1149.50 146.64" stroke="#b5a27c" opacity=".7" /><path d="M1158.48 158.52L1164.13 152.87" stroke="#b5a27c" opacity=".7" /><path d="M1166.90 169.50L1170.36 167.50" stroke="#b5a27c" opacity=".7" /><path d="M1172.19 182.28L1176.06 181.25" stroke="#b5a27c" opacity=".7" />
+ <circle cx="1121" cy="143" r="2.5" fill="#e6dfd0" /></g><g><path d="M1132.448 175.012 A23.85 23.85 0 1 0 1132.448 216.988 A19.557 19.557 0 0 1 1132.448 175.012Z" fill="#e6dfd0" /></g><text x="1010" y="315" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">PR #199 -&gt;</text><rect x="-180" y="0" width="140" height="365" fill="url(#sweep)" opacity=".23" /><circle cx="64" cy="152" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="205" cy="307" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1194" cy="175" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="277" cy="280" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="945" cy="117" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="82" cy="159" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="303" cy="190" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1220" cy="183" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1018" cy="158" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="472" cy="97" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="164" cy="93" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1036" cy="340" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1225" cy="25" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1168" cy="21" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1083" cy="83" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="348" cy="87" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="265" cy="144" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="907" cy="80" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle>
+ <rect x="1" y="1" width="1278" height="363" fill="none" stroke="#393e37" />
+ <path d="M22 47V22H51M1229 22H1258V47M22 318V343H51M1229 343H1258V318" fill="none" stroke="#b5a27c" stroke-width="1.5" />
+ </g></svg>

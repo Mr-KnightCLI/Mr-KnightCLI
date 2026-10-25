@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="355" viewBox="0 0 1280 355" role="img" aria-label="02-mask">
+ <title>02-mask</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411" /><stop offset="1" stop-color="#080a0a" /></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0" /><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4" /><stop offset="1" stop-color="#eee6d3" stop-opacity="0" /></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1" /><stop offset="1" stop-color="#0c0f0e" stop-opacity="0" /></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035" /></pattern>
+ <clipPath id="bounds"><rect width="1280" height="355" rx="2" /></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="1280" height="355" fill="url(#bg)" /><rect width="1280" height="355" fill="url(#linen)" />
+ <path d="M1070 0L950 355 M1180 0L1060 355" stroke="#60645c" opacity=".1" />
+ <text x="55" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">01 / BEHIND THE MASK</text><text x="55" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="400" fill="#e6dfd0">The work speaks for itself.</text><text x="55" y="175" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="600" fill="#e6dfd0">Hey, I’m Harsh — @Aoi-Todoo.</text><text x="55" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#a7a8a5">I build web apps, practical tools, and</text><text x="55" y="264" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#a7a8a5">the backend systems that make them work.</text><text x="55" y="318" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#b5a27c">Curiosity starts the mission. Working code finishes it.</text><rect x="785" y="137" width="439" height="165" rx="3" fill="#070a09" stroke="#444c41" /><text x="808" y="173" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">~/midnight/harsh</text><text x="808" y="219" font-family="Consolas,monospace" font-size="23" font-weight="400" fill="#e6dfd0">$ ./mvnw test</text><text x="808" y="265" font-family="Consolas,monospace" font-size="23" font-weight="400" fill="#a7a8a5">$ pnpm build</text><circle cx="242" cy="252" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="452" cy="160" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="76" cy="176" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="864" cy="280" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="400" cy="127" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="799" cy="64" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="598" cy="124" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1092" cy="239" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="343" cy="77" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="763" cy="21" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="919" cy="37" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="669" cy="297" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1254" cy="146" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1053" cy="45" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="146" cy="21" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="522" cy="214" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="869" cy="38" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="746" cy="332" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle>
+ <rect x="1" y="1" width="1278" height="353" fill="none" stroke="#393e37" />
+ <path d="M22 47V22H51M1229 22H1258V47M22 308V333H51M1229 333H1258V308" fill="none" stroke="#b5a27c" stroke-width="1.5" />
+ </g></svg>

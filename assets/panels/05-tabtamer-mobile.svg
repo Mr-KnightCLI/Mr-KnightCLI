@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="525" viewBox="0 0 640 525" role="img" aria-label="05-tabtamer-mobile">
+ <title>05-tabtamer-mobile</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411"/><stop offset="1" stop-color="#080a0a"/></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0"/><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4"/><stop offset="1" stop-color="#eee6d3" stop-opacity="0"/></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1"/><stop offset="1" stop-color="#0c0f0e" stop-opacity="0"/></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035"/></pattern>
+ <clipPath id="bounds"><rect width="640" height="525" rx="2"/></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="640" height="525" fill="url(#bg)"/><rect width="640" height="525" fill="url(#linen)"/>
+ <path d="M430 0L310 525 M540 0L420 525" stroke="#60645c" opacity=".1"/>
+ <text x="35" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">FILE 01 / RESEARCH / ORGANIZATION</text><text x="35" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="400" fill="#e6dfd0">TabTamer</text><text x="35" y="176" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#e6dfd0">Give scattered research a place to</text><text x="35" y="214" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#e6dfd0">land.</text><text x="35" y="270" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Save links, organize collections, and search</text><text x="35" y="307" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">your notes. A Next.js bookmark library with</text><text x="35" y="344" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">a browser extension.</text><rect x="35" y="396" width="112" height="36" rx="2" fill="#1b211d" stroke="#485044"/><text x="49" y="421" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">Next.js</text><rect x="159" y="396" width="148" height="36" rx="2" fill="#1b211d" stroke="#485044"/><text x="173" y="421" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">TypeScript</text><rect x="319" y="396" width="172" height="36" rx="2" fill="#1b211d" stroke="#485044"/><text x="333" y="421" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">Tailwind CSS</text><text x="35" y="481" font-family="Consolas,monospace" font-size="19" font-weight="400" fill="#b5a27c">EXPLORE THE CASE FILE -&gt;</text><rect x="-180" y="0" width="140" height="525" fill="url(#sweep)" opacity=".23"><animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="11s" repeatCount="indefinite"/></rect><circle cx="422" cy="44" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;8 -15;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="443" cy="117" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-13 -25;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="91" cy="370" r="1.1" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;15 -18;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="603" cy="35" r="0.9" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;3 -22;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="121" cy="321" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-12 -26;0 0" dur="17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="425" cy="230" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;9 -30;0 0" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="195" cy="308" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;11 -32;0 0" dur="19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="512" cy="362" r="0.9" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;17 -29;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="61" cy="269" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;2 -28;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="550" cy="413" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-18 -11;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="457" cy="373" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 -17;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="206" cy="68" r="0.9" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;2 -21;0 0" dur="17s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="469" cy="272" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-6 -11;0 0" dur="18s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle><circle cx="528" cy="315" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;17 -29;0 0" dur="19s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="12s" repeatCount="indefinite"/></circle><circle cx="537" cy="372" r="1.0" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;1 -12;0 0" dur="13s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="13s" repeatCount="indefinite"/></circle><circle cx="273" cy="91" r="1.2" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;7 -20;0 0" dur="14s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="9s" repeatCount="indefinite"/></circle><circle cx="556" cy="86" r="0.7" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-16 -21;0 0" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="10s" repeatCount="indefinite"/></circle><circle cx="363" cy="360" r="1.1" fill="#e6dfd0" opacity=".18">
+  <animateTransform attributeName="transform" type="translate" values="0 0;-9 -19;0 0" dur="16s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".06;.28;.06" dur="11s" repeatCount="indefinite"/></circle>
+ <rect x="1" y="1" width="638" height="523" fill="none" stroke="#393e37"/>
+ <path d="M22 47V22H51M589 22H618V47M22 478V503H51M589 503H618V478" fill="none" stroke="#b5a27c" stroke-width="1.5"/>
+ </g></svg>

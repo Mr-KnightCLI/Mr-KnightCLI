@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="435" viewBox="0 0 1280 435" role="img" aria-label="03-armory">
+ <title>03-armory</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411" /><stop offset="1" stop-color="#080a0a" /></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0" /><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4" /><stop offset="1" stop-color="#eee6d3" stop-opacity="0" /></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1" /><stop offset="1" stop-color="#0c0f0e" stop-opacity="0" /></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035" /></pattern>
+ <clipPath id="bounds"><rect width="1280" height="435" rx="2" /></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="1280" height="435" fill="url(#bg)" /><rect width="1280" height="435" fill="url(#linen)" />
+ <path d="M1070 0L950 435 M1180 0L1060 435" stroke="#60645c" opacity=".1" />
+ <text x="55" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">02 / THE ARMORY</text><text x="55" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="400" fill="#e6dfd0">The tools behind the mask.</text><text x="55" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="400" fill="#a7a8a5">Skills put to work in my public projects.</text><text x="55" y="231" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#b5a27c">BACKEND / SYSTEMS</text><path d="M55 250H400" stroke="#384234" /><text x="55" y="291" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">Java · Spring Boot</text><text x="55" y="334" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">REST APIs · WebSockets</text><text x="55" y="377" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Spring Data JPA · H2</text><text x="462" y="231" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#b5a27c">WEB / INTERFACES</text><path d="M462 250H807" stroke="#384234" /><text x="462" y="291" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">TypeScript · Next.js</text><text x="462" y="334" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Tailwind CSS</text><text x="462" y="377" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">HTML · CSS · JavaScript</text><text x="869" y="231" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#b5a27c">BUILD / VERIFY</text><path d="M869 250H1214" stroke="#384234" /><text x="869" y="291" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#e6dfd0">Maven · JUnit 5</text><text x="869" y="334" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Git · GitHub</text><text x="869" y="377" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Node.js · pnpm</text><circle cx="1238" cy="181" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="600" cy="242" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1017" cy="266" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="30" cy="150" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="112" cy="308" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1184" cy="379" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="526" cy="208" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="380" cy="39" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="596" cy="379" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="211" cy="261" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="199" cy="229" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1161" cy="257" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1173" cy="244" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="280" cy="414" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="462" cy="70" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1014" cy="181" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="157" cy="155" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="1257" cy="139" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle>
+ <rect x="1" y="1" width="1278" height="433" fill="none" stroke="#393e37" />
+ <path d="M22 47V22H51M1229 22H1258V47M22 388V413H51M1229 413H1258V388" fill="none" stroke="#b5a27c" stroke-width="1.5" />
+ </g></svg>

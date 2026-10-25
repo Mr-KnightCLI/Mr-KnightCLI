@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="545" viewBox="0 0 640 545" role="img" aria-label="06-oss-radar-mobile">
+ <title>06-oss-radar-mobile</title><defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111411" /><stop offset="1" stop-color="#080a0a" /></linearGradient>
+ <linearGradient id="sweep"><stop stop-color="#eee6d3" stop-opacity="0" /><stop offset=".5" stop-color="#eee6d3" stop-opacity=".4" /><stop offset="1" stop-color="#eee6d3" stop-opacity="0" /></linearGradient>
+ <linearGradient id="shade"><stop stop-color="#0c0f0e" stop-opacity="1" /><stop offset="1" stop-color="#0c0f0e" stop-opacity="0" /></linearGradient>
+ <pattern id="linen" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M0 0H9M0 0V9" stroke="#fff" stroke-width=".3" opacity=".035" /></pattern>
+ <clipPath id="bounds"><rect width="640" height="545" rx="2" /></clipPath></defs>
+ <g clip-path="url(#bounds)"><rect width="640" height="545" fill="url(#bg)" /><rect width="640" height="545" fill="url(#linen)" />
+ <path d="M430 0L310 545 M540 0L420 545" stroke="#60645c" opacity=".1" />
+ <text x="35" y="54" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">MERGED / TanbirRamim/open-source-radar</text><text x="35" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="400" fill="#e6dfd0">Open Source Radar</text><text x="35" y="176" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#e6dfd0">A clearer rule. Tested at the edges.</text><text x="35" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">Extracted the stale-claim decision into a</text><text x="35" y="268" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">shared helper. Added cutoff tests and</text><text x="35" y="305" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#a7a8a5">connected the scheduled workflow.</text><rect x="35" y="373" width="148" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="49" y="398" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">JavaScript</text><rect x="195" y="373" width="196" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="209" y="398" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">GitHub Actions</text><rect x="403" y="373" width="100" height="36" rx="2" fill="#1b211d" stroke="#485044" /><text x="417" y="398" font-family="Consolas,monospace" font-size="20" font-weight="400" fill="#e6dfd0">Merged</text><text x="35" y="499" font-family="Consolas,monospace" font-size="18" font-weight="400" fill="#b5a27c">PR #199 / VIEW MERGED CHANGE -&gt;</text><rect x="-180" y="0" width="140" height="545" fill="url(#sweep)" opacity=".23" /><circle cx="93" cy="345" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="67" cy="257" r="1.0" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="485" cy="525" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="187" cy="171" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="443" cy="337" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="414" cy="217" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="527" cy="203" r="1.1" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="201" cy="77" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="206" cy="482" r="1.3" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="86" cy="525" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="76" cy="88" r="0.6" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="552" cy="210" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="573" cy="330" r="0.8" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="175" cy="498" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="369" cy="208" r="1.3" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="283" cy="175" r="1.2" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="23" cy="492" r="0.9" fill="#e6dfd0" opacity=".18">
+  </circle><circle cx="516" cy="333" r="0.7" fill="#e6dfd0" opacity=".18">
+  </circle>
+ <rect x="1" y="1" width="638" height="543" fill="none" stroke="#393e37" />
+ <path d="M22 47V22H51M589 22H618V47M22 498V523H51M589 523H618V498" fill="none" stroke="#b5a27c" stroke-width="1.5" />
+ </g></svg>
