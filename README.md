@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/01-midnight-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/01-midnight-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/01-midnight-still.svg">
-  <img src="assets/panels/01-midnight.svg" width="1280" alt="Harsh / Mr-KnightCLI. The Midnight Archive. Code after dark, built with purpose. Java and full-stack development. Supplied Mr. Knight artwork with moving lunar markings and dust.">
+  <img src="assets/panels/01-midnight.svg" width="1280" alt="Harsh / Mr-knightCLI. The Midnight Archive. Code after dark, built with purpose. Java and full-stack development. Supplied Mr. Knight artwork with moving lunar markings and dust.">
 </picture>
 
 <p align="center"><a href="#behind-the-mask">Behind the mask</a> · <a href="#the-armory">The armory</a> · <a href="#case-files">Case files</a> · <a href="#open-source">Open source</a> · <a href="#leave-a-signal">Leave a signal</a></p>
@@ -13,7 +13,7 @@
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/02-mask-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/02-mask-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/02-mask-still.svg">
-  <img src="assets/panels/02-mask.svg" width="1280" alt="Hey, I am Harsh, @Mr-KnightCLI. I build web apps, practical tools, and backend systems. Build commands: ./mvnw test and pnpm build.">
+  <img src="assets/panels/02-mask.svg" width="1280" alt="Hey, I am Harsh, @Mr-knightCLI. I build web apps, practical tools, and backend systems. Build commands: ./mvnw test and pnpm build.">
 </picture>
 
 <a id="the-armory"></a>
@@ -34,7 +34,7 @@
   <img src="assets/panels/04-cases.svg" width="1280" alt="Case files: real projects, evidence in the code.">
 </picture>
 
-<a href="https://github.com/Mr-KnightCLI/tabtamer">
+<a href="https://github.com/Mr-knightCLI/tabtamer">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-tabtamer-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/05-tabtamer-mobile.svg">
@@ -43,7 +43,7 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mr-KnightCLI/jredis">
+<a href="https://github.com/Mr-knightCLI/jredis">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-jredis-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/05-jredis-mobile.svg">
@@ -52,7 +52,7 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mr-KnightCLI/cove-clipboard">
+<a href="https://github.com/Mr-knightCLI/cove-clipboard">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-cove-clipboard-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/05-cove-clipboard-mobile.svg">
@@ -61,7 +61,7 @@
 </picture>
 </a>
 
-<a href="https://github.com/Mr-KnightCLI/ApplyFlow">
+<a href="https://github.com/Mr-knightCLI/ApplyFlow">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-ApplyFlow-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/05-ApplyFlow-mobile.svg">
@@ -97,7 +97,7 @@
 </picture>
 </a>
 
-<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AMr-KnightCLI">
+<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AMr-knightCLI">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-open-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/06-oss-open-mobile.svg">
@@ -110,10 +110,10 @@
 
 <details>
 <summary>All 14 public pull requests — verified 25 October 2026</summary>
-<p>Snapshot of public GitHub API results for author Mr-KnightCLI. Closed entries below were not merged. Status can change after this date.</p><table><thead><tr><th>Project / PR</th><th>Contribution</th><th>Status</th></tr></thead><tbody><tr><td><a href="https://github.com/TanbirRamim/open-source-radar/pull/199">TanbirRamim/open-source-radar #199</a></td><td>test: cover stale claim rule</td><td>Merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5501">google/or-tools #5501</a></td><td>Preserve precision in MPS model export</td><td>Merged</td></tr><tr><td><a href="https://github.com/Netflix/dgs/pull/216">Netflix/dgs #216</a></td><td>docs: link Spring Security concurrency guidance</td><td>Open</td></tr><tr><td><a href="https://github.com/aws/aws-cli/pull/10777">aws/aws-cli #10777</a></td><td>docs: explain Git Bash path conversion workaround</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/TestSlide/pull/382">facebook/TestSlide #382</a></td><td>Reject async shared context functions</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/docusaurus/pull/12742">facebook/docusaurus #12742</a></td><td>docs: clarify authentication for static routes</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3147">google/gson #3147</a></td><td>Increase initial capacity across JSON string outputs</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3149">google/gson #3149</a></td><td>docs: correct pretty printing guide</td><td>Open</td></tr><tr><td><a href="https://github.com/microsoft/gctoolkit/pull/593">microsoft/gctoolkit #593</a></td><td>Preserve first timestamp after fallback</td><td>Open</td></tr><tr><td><a href="https://github.com/apache/fineract/pull/6712">apache/fineract #6712</a></td><td>FINERACT-2023: Add a first-time contributor guide</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/gson/pull/3146">google/gson #3146</a></td><td>Return null for null JSON read as JsonObject</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5500">google/or-tools #5500</a></td><td>Preserve precision in MPS numeric values</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5502">google/or-tools #5502</a></td><td>Add Automatic-Module-Name to Java JARs</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/react/react-native-website/pull/5297">react/react-native-website #5297</a></td><td>docs: correct React Native 0.88 announcement date</td><td>Closed, not merged</td></tr></tbody></table>
+<p>Snapshot of public GitHub API results for author Mr-knightCLI. Closed entries below were not merged. Status can change after this date.</p><table><thead><tr><th>Project / PR</th><th>Contribution</th><th>Status</th></tr></thead><tbody><tr><td><a href="https://github.com/TanbirRamim/open-source-radar/pull/199">TanbirRamim/open-source-radar #199</a></td><td>test: cover stale claim rule</td><td>Merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5501">google/or-tools #5501</a></td><td>Preserve precision in MPS model export</td><td>Merged</td></tr><tr><td><a href="https://github.com/Netflix/dgs/pull/216">Netflix/dgs #216</a></td><td>docs: link Spring Security concurrency guidance</td><td>Open</td></tr><tr><td><a href="https://github.com/aws/aws-cli/pull/10777">aws/aws-cli #10777</a></td><td>docs: explain Git Bash path conversion workaround</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/TestSlide/pull/382">facebook/TestSlide #382</a></td><td>Reject async shared context functions</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/docusaurus/pull/12742">facebook/docusaurus #12742</a></td><td>docs: clarify authentication for static routes</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3147">google/gson #3147</a></td><td>Increase initial capacity across JSON string outputs</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3149">google/gson #3149</a></td><td>docs: correct pretty printing guide</td><td>Open</td></tr><tr><td><a href="https://github.com/microsoft/gctoolkit/pull/593">microsoft/gctoolkit #593</a></td><td>Preserve first timestamp after fallback</td><td>Open</td></tr><tr><td><a href="https://github.com/apache/fineract/pull/6712">apache/fineract #6712</a></td><td>FINERACT-2023: Add a first-time contributor guide</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/gson/pull/3146">google/gson #3146</a></td><td>Return null for null JSON read as JsonObject</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5500">google/or-tools #5500</a></td><td>Preserve precision in MPS numeric values</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5502">google/or-tools #5502</a></td><td>Add Automatic-Module-Name to Java JARs</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/react/react-native-website/pull/5297">react/react-native-website #5297</a></td><td>docs: correct React Native 0.88 announcement date</td><td>Closed, not merged</td></tr></tbody></table>
 </details>
 
-<a href="https://github.com/Mr-KnightCLI?tab=repositories">
+<a href="https://github.com/Mr-knightCLI?tab=repositories">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-patrol-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/06-patrol-mobile.svg">
@@ -122,22 +122,22 @@
 </picture>
 </a>
 
-<p align="center"><a href="https://github.com/Mr-KnightCLI?tab=repositories">All repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI">Public pull requests</a></p>
+<p align="center"><a href="https://github.com/Mr-knightCLI?tab=repositories">All repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AMr-knightCLI">Public pull requests</a></p>
 
 <a id="leave-a-signal"></a>
 
-<a href="https://github.com/Mr-KnightCLI">
+<a href="https://github.com/Mr-knightCLI">
 <picture>
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/07-signal-mobile-still.svg">
   <source media="(max-width: 600px)" srcset="assets/panels/07-signal-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/07-signal-still.svg">
-  <img src="assets/panels/07-signal.svg" width="1280" alt="Leave a signal. Good ideas deserve daylight. Explore my projects, open an issue, or start a conversation about the code. github.com/Mr-KnightCLI. Supplied Moon Knight crescent-blade image.">
+  <img src="assets/panels/07-signal.svg" width="1280" alt="Leave a signal. Good ideas deserve daylight. Explore my projects, open an issue, or start a conversation about the code. github.com/Mr-knightCLI. Supplied Moon Knight crescent-blade image.">
 </picture>
 </a>
 
 <details>
 <summary>Read the profile as text</summary>
-<h2>Harsh / Mr-KnightCLI</h2><p>I build web apps, practical tools, and the backend systems that make them work.</p><h3>Skills</h3><p>Java, Spring Boot, REST APIs, WebSockets, Spring Data JPA, H2, TypeScript, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Maven, JUnit 5, Git, GitHub, Node.js, pnpm.</p><h3>Projects</h3><ul><li><a href="https://github.com/Mr-KnightCLI/tabtamer">TabTamer</a> — Save links, organize collections, and search your notes. A Next.js bookmark library with a browser extension. Stack: Next.js, TypeScript, Tailwind CSS.</li><li><a href="https://github.com/Mr-KnightCLI/jredis">JRedis</a> — An educational Java 21 key-value server with RESP2, expiring keys, concurrent clients, and optional AOF. Stack: Java 21, Sockets, RESP2.</li><li><a href="https://github.com/Mr-KnightCLI/cove-clipboard">Cove</a> — A text clipboard with private links, 24-hour expiry, H2 persistence, and live WebSocket updates. Stack: Spring Boot, WebSockets, H2.</li><li><a href="https://github.com/Mr-KnightCLI/ApplyFlow">ApplyFlow</a> — Track applications, interviews, stages, and follow-ups. A Spring Boot app with a dashboard and status board. Stack: Java 21, Spring Data JPA, JUnit 5.</li></ul><p><a href="https://github.com/Mr-KnightCLI">Explore my GitHub</a></p>
+<h2>Harsh / Mr-knightCLI</h2><p>I build web apps, practical tools, and the backend systems that make them work.</p><h3>Skills</h3><p>Java, Spring Boot, REST APIs, WebSockets, Spring Data JPA, H2, TypeScript, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Maven, JUnit 5, Git, GitHub, Node.js, pnpm.</p><h3>Projects</h3><ul><li><a href="https://github.com/Mr-knightCLI/tabtamer">TabTamer</a> — Save links, organize collections, and search your notes. A Next.js bookmark library with a browser extension. Stack: Next.js, TypeScript, Tailwind CSS.</li><li><a href="https://github.com/Mr-knightCLI/jredis">JRedis</a> — An educational Java 21 key-value server with RESP2, expiring keys, concurrent clients, and optional AOF. Stack: Java 21, Sockets, RESP2.</li><li><a href="https://github.com/Mr-knightCLI/cove-clipboard">Cove</a> — A text clipboard with private links, 24-hour expiry, H2 persistence, and live WebSocket updates. Stack: Spring Boot, WebSockets, H2.</li><li><a href="https://github.com/Mr-knightCLI/ApplyFlow">ApplyFlow</a> — Track applications, interviews, stages, and follow-ups. A Spring Boot app with a dashboard and status board. Stack: Java 21, Spring Data JPA, JUnit 5.</li></ul><p><a href="https://github.com/Mr-knightCLI">Explore my GitHub</a></p>
 </details>
 
 <p align="center"><sub>Moon Knight inspired · User-supplied artwork · Independent developer profile · <a href="ASSET-CREDITS.md">Artwork and reference notes</a></sub></p>
