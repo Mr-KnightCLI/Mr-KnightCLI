@@ -9,8 +9,7 @@
   <a href="#behind-the-mask">Behind the mask</a> &nbsp;·&nbsp;
   <a href="#the-armory">The armory</a> &nbsp;·&nbsp;
   <a href="#case-files">Case files</a> &nbsp;·&nbsp;
-  <a href="#the-midnight-mission">The midnight mission</a> &nbsp;·&nbsp;
-  <a href="#under-khonshus-moon">Moon Knight</a>
+  <a href="#the-midnight-mission">The midnight mission</a>
 </p>
 
 ## Merged missions — Google & Microsoft
@@ -122,21 +121,6 @@ Building my own projects is one part of the story. Contributing fixes, tests, an
 **[Follow my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)**
 
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
-
-## Under Khonshu's moon
-
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/khonshu-night-still.svg"><img src="assets/khonshu-night.svg" width="1200" alt="Moon Knight crescent-blade artwork on a black and silver field. Under Khonshu's moon."></picture>
-
-The name **Mr-KnightCLI** takes its cue from Moon Knight's world: the mask, the crescent, and a figure in white stepping out of the dark.
-
-- **Khonshu:** Marvel's god of the moon and vengeance, who works through his avatar Marc Spector, the vigilante Moon Knight.
-- **Mr. Knight:** the suited silhouette in this profile's artwork — the visual starting point for my developer alias.
-- **The crescent:** carried through the blade artwork, lunar dividers, and orbiting marks.
-- **The midnight palette:** near-black fields, moonlit silver, and cold highlights. The moving particles and light sweeps keep the night alive.
-
-The character sets the mood. My projects and contributions tell the rest of the story.
-
-<sub>Character reference: [Marvel — Khonshu](https://www.marvel.com/comics/discover/2255/khonshu). Artwork credits are in [ASSET-CREDITS.md](ASSET-CREDITS.md).</sub>
 
 ## Leave a signal
 
