@@ -1,143 +1,100 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/01-midnight-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/01-midnight-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/01-midnight-still.svg">
-  <img src="assets/panels/01-midnight.svg" width="1280" alt="Harsh / Mr-KnightCLI. The Midnight Archive. Code after dark, built with purpose. Java and full-stack development. Supplied Mr. Knight artwork with moving lunar markings and dust.">
+  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile.svg">
+  <img src="assets/moonlight-banner.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
 </picture>
 
-<p align="center"><a href="#behind-the-mask">Behind the mask</a> · <a href="#the-armory">The armory</a> · <a href="#case-files">Case files</a> · <a href="#open-source">Open source</a> · <a href="#leave-a-signal">Leave a signal</a></p>
+<p align="center">
+  <a href="#behind-the-mask">Behind the mask</a> &nbsp;·&nbsp;
+  <a href="#the-armory">The armory</a> &nbsp;·&nbsp;
+  <a href="#case-files">Case files</a> &nbsp;·&nbsp;
+  <a href="#the-midnight-mission">The midnight mission</a>
+</p>
 
-<a id="behind-the-mask"></a>
+## Behind the mask
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/02-mask-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/02-mask-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/02-mask-still.svg">
-  <img src="assets/panels/02-mask.svg" width="1280" alt="Hey, I am Harsh, @Mr-KnightCLI. I build web apps, practical tools, and backend systems. Build commands: ./mvnw test and pnpm build.">
-</picture>
+### Hey, I'm Harsh — the developer behind Mr-KnightCLI. 🌙
 
-<a id="the-armory"></a>
+**Java is my first choice. Building something useful is the mission.**
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/03-armory-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/03-armory-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/03-armory-still.svg">
-  <img src="assets/panels/03-armory.svg" width="1280" alt="Skills: Java, Spring Boot, REST APIs, WebSockets, Spring Data JPA, H2; TypeScript, Next.js, Tailwind CSS, HTML, CSS, JavaScript; Maven, JUnit 5, Git, GitHub, Node.js, pnpm.">
-</picture>
+I build backend systems, web apps, and practical tools that turn everyday friction into working software. Sometimes that means a clipboard that connects devices. Sometimes it means digging into sockets, persistence, and what happens underneath an API.
 
-<a id="case-files"></a>
+Moon Knight brings the atmosphere; the code tells my story. I like projects where I can follow a request from the interface to the database, understand the moving parts, and write tests for the details that are easy to miss.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/04-cases-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/04-cases-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/04-cases-still.svg">
-  <img src="assets/panels/04-cases.svg" width="1280" alt="Case files: real projects, evidence in the code.">
-</picture>
+- **My main language:** Java, especially for backend services and exploring how systems work.
+- **On the web:** TypeScript and JavaScript for interfaces, browser tools, and full-stack apps.
+- **What I'm working on:** practical Java projects and open-source fixes with clear reproduction steps and regression tests.
 
-<a href="https://github.com/Mr-KnightCLI/tabtamer">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-tabtamer-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/05-tabtamer-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/05-tabtamer-still.svg">
-  <img src="assets/panels/05-tabtamer.svg" width="1280" alt="TabTamer: Give scattered research a place to land. Save links, organize collections, and search your notes. A Next.js bookmark library with a browser extension. Stack: Next.js, TypeScript, Tailwind CSS. Open repository.">
-</picture>
-</a>
+> One developer behind the mask. Plenty of problems worth solving.
 
-<a href="https://github.com/Mr-KnightCLI/jredis">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-jredis-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/05-jredis-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/05-jredis-still.svg">
-  <img src="assets/panels/05-jredis.svg" width="1280" alt="JRedis: Understand the engine beneath the API. An educational Java 21 key-value server with RESP2, expiring keys, concurrent clients, and optional AOF. Stack: Java 21, Sockets, RESP2. Open repository.">
-</picture>
-</a>
+## The armory
 
-<a href="https://github.com/Mr-KnightCLI/cove-clipboard">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-cove-clipboard-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/05-cove-clipboard-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/05-cove-clipboard-still.svg">
-  <img src="assets/panels/05-cove-clipboard.svg" width="1280" alt="Cove: A small bridge between your devices. A text clipboard with private links, 24-hour expiry, H2 persistence, and live WebSocket updates. Stack: Spring Boot, WebSockets, H2. Open repository.">
-</picture>
-</a>
+| What I reach for | Tools I use |
+| :--- | :--- |
+| **Core language** | `Java` |
+| **Web languages** | `TypeScript` · `JavaScript` · `HTML` · `CSS` |
+| **Backend** | `Spring Boot` · `REST APIs` · `WebSockets` · `Spring Data JPA` |
+| **Frontend** | `Next.js` · `Tailwind CSS` |
+| **Data & protocols** | `H2` · `TCP sockets` · `RESP2` |
+| **Build, test & ship** | `Maven` · `JUnit 5` · `Git` · `GitHub` · `Node.js` · `pnpm` |
 
-<a href="https://github.com/Mr-KnightCLI/ApplyFlow">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/05-ApplyFlow-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/05-ApplyFlow-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/05-ApplyFlow-still.svg">
-  <img src="assets/panels/05-ApplyFlow.svg" width="1280" alt="ApplyFlow: Keep the next opportunity in view. Track applications, interviews, stages, and follow-ups. A Spring Boot app with a dashboard and status board. Stack: Java 21, Spring Data JPA, JUnit 5. Open repository.">
-</picture>
-</a>
+## Case files
 
-<a id="open-source"></a>
+Four projects. Four different reasons to open the editor.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-overview-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/06-oss-overview-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-overview-still.svg">
-  <img src="assets/panels/06-oss-overview.svg" width="1280" alt="Open-source contributions. Verified 25 October 2026: 14 public pull requests across 10 upstream repositories; 2 merged, 7 open, 5 closed without merging.">
-</picture>
+### 01 / [JRedis](https://github.com/Mr-KnightCLI/jredis) — Beneath the protocol
 
-<a href="https://github.com/google/or-tools/pull/5501">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-or-tools-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/06-oss-or-tools-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-or-tools-still.svg">
-  <img src="assets/panels/06-oss-or-tools.svg" width="1280" alt="Merged contribution to Google OR-Tools, PR #5501: Precision that survives an export. Preserved floating-point precision in model exports. Updated the C++ formatter and added a Python regression test.">
-</picture>
-</a>
+**What does a key-value server actually do after you hit Enter?**
 
-<a href="https://github.com/TanbirRamim/open-source-radar/pull/199">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-radar-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/06-oss-radar-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-radar-still.svg">
-  <img src="assets/panels/06-oss-radar.svg" width="1280" alt="Merged contribution to Open Source Radar, PR #199: A clearer rule. Tested at the edges. Extracted the stale-claim decision into a shared helper. Added cutoff tests and connected the scheduled workflow.">
-</picture>
-</a>
+An educational Java 21 server implementing a useful subset of Redis over RESP2: expiring keys, concurrent clients, command validation, and optional append-only recovery. Built to explore the machinery, with a deliberately limited scope.
 
-<a href="https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3AMr-KnightCLI">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-open-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/06-oss-open-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/06-oss-open-still.svg">
-  <img src="assets/panels/06-oss-open.svg" width="1280" alt="Selected open pull requests: Gson #3147, increase initial JSON string capacity; GCToolKit #593, preserve the first timestamp after fallback; TestSlide #382, reject async shared contexts; Docusaurus #12742, clarify static route authentication. These pull requests are open and not merged.">
-</picture>
-</a>
+`Java 21` · `TCP sockets` · `RESP2` · `Persistence`
 
-<p align="center"><a href="https://github.com/google/gson/pull/3147">gson #3147</a> · <a href="https://github.com/microsoft/gctoolkit/pull/593">gctoolkit #593</a> · <a href="https://github.com/facebook/TestSlide/pull/382">TestSlide #382</a> · <a href="https://github.com/facebook/docusaurus/pull/12742">docusaurus #12742</a></p>
+### 02 / [Cove](https://github.com/Mr-KnightCLI/cove-clipboard) — A signal between devices
 
-<details>
-<summary>All 14 public pull requests — verified 25 October 2026</summary>
-<p>Snapshot of public GitHub API results for author Mr-KnightCLI. Closed entries below were not merged. Status can change after this date.</p><table><thead><tr><th>Project / PR</th><th>Contribution</th><th>Status</th></tr></thead><tbody><tr><td><a href="https://github.com/TanbirRamim/open-source-radar/pull/199">TanbirRamim/open-source-radar #199</a></td><td>test: cover stale claim rule</td><td>Merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5501">google/or-tools #5501</a></td><td>Preserve precision in MPS model export</td><td>Merged</td></tr><tr><td><a href="https://github.com/Netflix/dgs/pull/216">Netflix/dgs #216</a></td><td>docs: link Spring Security concurrency guidance</td><td>Open</td></tr><tr><td><a href="https://github.com/aws/aws-cli/pull/10777">aws/aws-cli #10777</a></td><td>docs: explain Git Bash path conversion workaround</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/TestSlide/pull/382">facebook/TestSlide #382</a></td><td>Reject async shared context functions</td><td>Open</td></tr><tr><td><a href="https://github.com/facebook/docusaurus/pull/12742">facebook/docusaurus #12742</a></td><td>docs: clarify authentication for static routes</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3147">google/gson #3147</a></td><td>Increase initial capacity across JSON string outputs</td><td>Open</td></tr><tr><td><a href="https://github.com/google/gson/pull/3149">google/gson #3149</a></td><td>docs: correct pretty printing guide</td><td>Open</td></tr><tr><td><a href="https://github.com/microsoft/gctoolkit/pull/593">microsoft/gctoolkit #593</a></td><td>Preserve first timestamp after fallback</td><td>Open</td></tr><tr><td><a href="https://github.com/apache/fineract/pull/6712">apache/fineract #6712</a></td><td>FINERACT-2023: Add a first-time contributor guide</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/gson/pull/3146">google/gson #3146</a></td><td>Return null for null JSON read as JsonObject</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5500">google/or-tools #5500</a></td><td>Preserve precision in MPS numeric values</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/google/or-tools/pull/5502">google/or-tools #5502</a></td><td>Add Automatic-Module-Name to Java JARs</td><td>Closed, not merged</td></tr><tr><td><a href="https://github.com/react/react-native-website/pull/5297">react/react-native-website #5297</a></td><td>docs: correct React Native 0.88 announcement date</td><td>Closed, not merged</td></tr></tbody></table>
-</details>
+**A note on one device. Ready on the next.**
 
-<a href="https://github.com/Mr-KnightCLI?tab=repositories">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/06-patrol-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/06-patrol-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/06-patrol-still.svg">
-  <img src="assets/panels/06-patrol.svg" width="1280" alt="Night patrol: explore my repositories and public pull requests. Learn in public and keep moving.">
-</picture>
-</a>
+A text-only clipboard for sharing notes and links through private URLs. Includes live WebSocket updates, H2 persistence, and 24-hour expiry, served from a single Spring Boot app.
 
-<p align="center"><a href="https://github.com/Mr-KnightCLI?tab=repositories">All repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI">Public pull requests</a></p>
+`Java` · `Spring Boot` · `WebSockets` · `H2`
 
-<a id="leave-a-signal"></a>
+### 03 / [ApplyFlow](https://github.com/Mr-KnightCLI/ApplyFlow) — Keep the next move in view
 
-<a href="https://github.com/Mr-KnightCLI">
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/panels/07-signal-mobile-still.svg">
-  <source media="(max-width: 600px)" srcset="assets/panels/07-signal-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/panels/07-signal-still.svg">
-  <img src="assets/panels/07-signal.svg" width="1280" alt="Leave a signal. Good ideas deserve daylight. Explore my projects, open an issue, or start a conversation about the code. github.com/Mr-KnightCLI. Supplied Moon Knight crescent-blade image.">
-</picture>
-</a>
+**Applications, interviews, and follow-ups deserve more than scattered notes.**
 
-<details>
-<summary>Read the profile as text</summary>
-<h2>Harsh / Mr-KnightCLI</h2><p>I build web apps, practical tools, and the backend systems that make them work.</p><h3>Skills</h3><p>Java, Spring Boot, REST APIs, WebSockets, Spring Data JPA, H2, TypeScript, Next.js, Tailwind CSS, HTML, CSS, JavaScript, Maven, JUnit 5, Git, GitHub, Node.js, pnpm.</p><h3>Projects</h3><ul><li><a href="https://github.com/Mr-KnightCLI/tabtamer">TabTamer</a> — Save links, organize collections, and search your notes. A Next.js bookmark library with a browser extension. Stack: Next.js, TypeScript, Tailwind CSS.</li><li><a href="https://github.com/Mr-KnightCLI/jredis">JRedis</a> — An educational Java 21 key-value server with RESP2, expiring keys, concurrent clients, and optional AOF. Stack: Java 21, Sockets, RESP2.</li><li><a href="https://github.com/Mr-KnightCLI/cove-clipboard">Cove</a> — A text clipboard with private links, 24-hour expiry, H2 persistence, and live WebSocket updates. Stack: Spring Boot, WebSockets, H2.</li><li><a href="https://github.com/Mr-KnightCLI/ApplyFlow">ApplyFlow</a> — Track applications, interviews, stages, and follow-ups. A Spring Boot app with a dashboard and status board. Stack: Java 21, Spring Data JPA, JUnit 5.</li></ul><p><a href="https://github.com/Mr-KnightCLI">Explore my GitHub</a></p>
-</details>
+A job-application tracker with a dashboard, stage board, filters, and follow-up reminders. One Spring Boot application connects the browser interface, REST API, and database.
 
-<p align="center"><sub>Moon Knight inspired · User-supplied artwork · Independent developer profile · <a href="ASSET-CREDITS.md">Artwork and reference notes</a></sub></p>
+`Java 21` · `Spring Data JPA` · `H2` · `JUnit 5`
+
+### 04 / [TabTamer](https://github.com/Mr-KnightCLI/tabtamer) — Bring order to the open tabs
+
+**Save the useful link before it disappears into tab number forty.**
+
+A bookmark library with collections, tags, notes, and search, plus a Chrome/Edge extension for saving the current tab. Built with Next.js and a JSON-backed library for local or single-server use.
+
+`TypeScript` · `Next.js` · `Tailwind CSS` · `Browser extension`
+
+**[Explore all my repositories →](https://github.com/Mr-KnightCLI?tab=repositories)**
+
+## The midnight mission
+
+Building my own projects is one part of the story. Contributing fixes, tests, and documentation to other projects is another.
+
+| Contribution | What I worked on | Status¹ |
+| :--- | :--- | :--- |
+| [Google OR-Tools #5501](https://github.com/google/or-tools/pull/5501) | Preserved floating-point precision in MPS exports and added a regression test. | **Merged** |
+| [Open Source Radar #199](https://github.com/TanbirRamim/open-source-radar/pull/199) | Extracted the stale-claim rule into a shared helper and tested cutoff cases. | **Merged** |
+| [nl2sql-java #10](https://github.com/alok26sinha/nl2sql-java/pull/10) | Added verified SQLite examples for e-commerce, logistics, and HR, with Java tests. | Open |
+| [nl2sql-java #11](https://github.com/alok26sinha/nl2sql-java/pull/11) | Fixed failed example saves remaining active in memory; added regression coverage. | Open |
+
+<sub>¹ Selected contributions; statuses checked 11 November 2026. Each link leads to the current discussion.</sub>
+
+**[Follow my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)**
+
+## Leave a signal
+
+Interested in Java, a useful little tool, or a project we could improve together? Explore a repository, open an issue, or join a discussion on one of my pull requests.
+
+**[Projects](https://github.com/Mr-KnightCLI?tab=repositories)** &nbsp; / &nbsp; **[Contributions](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)** &nbsp; / &nbsp; **[GitHub profile](https://github.com/Mr-KnightCLI)**
+
+<p align="center"><sub>☾ &nbsp; Build with curiosity. Test with intent. Keep the mission moving. &nbsp; ☽</sub></p>
+<p align="center"><sub>Moon Knight inspired · Independent developer profile · <a href="ASSET-CREDITS.md">Artwork & references</a></sub></p>
