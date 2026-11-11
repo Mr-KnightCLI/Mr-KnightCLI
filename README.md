@@ -1,6 +1,8 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile.svg">
-  <img src="assets/moonlight-banner.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/moonlight-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlight-banner.svg">
+  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile-animated.svg">
+  <img src="assets/moonlight-banner-animated.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
 </picture>
 
 <p align="center">
@@ -9,6 +11,8 @@
   <a href="#case-files">Case files</a> &nbsp;·&nbsp;
   <a href="#the-midnight-mission">The midnight mission</a>
 </p>
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
 
 ## Behind the mask
 
@@ -26,7 +30,11 @@ Moon Knight brings the atmosphere; the code tells my story. I like projects wher
 
 > One developer behind the mask. Plenty of problems worth solving.
 
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
 ## The armory
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/armory-orbit-still.svg"><img src="assets/armory-orbit.svg" width="1200" alt="Java at the core. Spring Boot and REST APIs, TypeScript and Next.js, WebSockets and H2, Maven and JUnit 5."></picture>
 
 | What I reach for | Tools I use |
 | :--- | :--- |
@@ -36,6 +44,8 @@ Moon Knight brings the atmosphere; the code tells my story. I like projects wher
 | **Frontend** | `Next.js` · `Tailwind CSS` |
 | **Data & protocols** | `H2` · `TCP sockets` · `RESP2` |
 | **Build, test & ship** | `Maven` · `JUnit 5` · `Git` · `GitHub` · `Node.js` · `pnpm` |
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
 
 ## Case files
 
@@ -75,6 +85,8 @@ A bookmark library with collections, tags, notes, and search, plus a Chrome/Edge
 
 **[Explore all my repositories →](https://github.com/Mr-KnightCLI?tab=repositories)**
 
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
 ## The midnight mission
 
 Building my own projects is one part of the story. Contributing fixes, tests, and documentation to other projects is another.
@@ -89,6 +101,8 @@ Building my own projects is one part of the story. Contributing fixes, tests, an
 <sub>¹ Selected contributions; statuses checked 11 November 2026. Each link leads to the current discussion.</sub>
 
 **[Follow my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)**
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
 
 ## Leave a signal
 

@@ -21,3 +21,8 @@ The current README uses new static, self-contained desktop and mobile banners (`
 Moon Knight and Khonshu reference: [Marvel character overview](https://www.marvel.com/characters/moon-knight-marc-spector/) and [Marvel: Khonshu](https://www.marvel.com/comics/discover/2255/khonshu). The midnight palette, crescent motif and mission language are thematic references; the developer biography is about Harsh, not the fictional character. No dialogue quotations or new third-party artwork were added.
 
 Project descriptions were checked against the current READMEs for Mr-KnightCLI/jredis, Mr-KnightCLI/cove-clipboard, Mr-KnightCLI/ApplyFlow and Mr-KnightCLI/tabtamer. The four featured contribution statuses were checked directly on 11 November 2026. Historical statistics above describe the earlier design and are not displayed as current totals.
+
+
+## Animation update — 11 November 2026
+
+The animated hero adds authored SVG orbital markings, drifting dust, a soft eye-light pulse and a slow light sweep over the existing supplied artwork. Animated lunar separators and a Java-centered armory panel extend the theme through the README. These are self-contained SVG animations, with no scripts or third-party animation services. Static picture sources are supplied for readers who request reduced motion. The original supplied artwork and prior static banners remain unchanged.
