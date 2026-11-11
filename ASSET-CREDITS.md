@@ -26,3 +26,13 @@ Project descriptions were checked against the current READMEs for Mr-KnightCLI/j
 ## Animation update — 11 November 2026
 
 The animated hero adds authored SVG orbital markings, drifting dust, a soft eye-light pulse and a slow light sweep over the existing supplied artwork. Animated lunar separators and a Java-centered armory panel extend the theme through the README. These are self-contained SVG animations, with no scripts or third-party animation services. Static picture sources are supplied for readers who request reduced motion. The original supplied artwork and prior static banners remain unchanged.
+
+
+## Featured merged contributions — 11 November 2026
+
+Google OR-Tools #5501 was verified merged on 19 October 2026 and Microsoft Java Debug #648 on 2 November 2026, using the individual GitHub pull-request records. New desktop/mobile mission panels use original vector branch diagrams and animated tracers, with static alternatives. Google and Microsoft are named as the owners of upstream projects receiving contributions, not as employers or endorsers. The updated hero credits these merged contributions and uses slightly faster orbital motion.
+
+
+## Deeper night palette and Moon Knight details
+
+The feature artwork uses near-black grounds and cool silver accents. The added Khonshu panel reuses the supplied crescent-blade photograph and adds original lunar tracers. The character description follows Marvel’s Khonshu character overview (linked in the README); other language describes the visual inspiration of this personal profile. GitHub controls the surrounding page theme; these colors apply to the README artwork.
