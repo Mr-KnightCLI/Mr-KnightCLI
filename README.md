@@ -6,6 +6,7 @@
 </picture>
 
 <p align="center">
+  <a href="#merged-missions--google--microsoft">Merged missions</a> &nbsp;·&nbsp;
   <a href="#behind-the-mask">Behind the mask</a> &nbsp;·&nbsp;
   <a href="#the-armory">The armory</a> &nbsp;·&nbsp;
   <a href="#case-files">Case files</a> &nbsp;·&nbsp;
@@ -18,16 +19,17 @@
   <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/merged-missions-mobile-still.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/merged-missions-still.svg">
   <source media="(max-width: 600px)" srcset="assets/merged-missions-mobile.svg">
-  <img src="assets/merged-missions.svg" width="1200" alt="Merged contributions: Google OR-Tools #5501, 19 October 2026; Microsoft Java Debug #648, 2 November 2026.">
+  <img src="assets/merged-missions.svg" width="1200" alt="Featured merged contributions: Google OR-Tools #5501, 19 October 2026; Microsoft Java Debug #648, 2 November 2026.">
 </picture>
 
-**[Google OR-Tools · #5501 · Merged ↗](https://github.com/google/or-tools/pull/5501)**
-
-Preserved floating-point precision in MPS model exports and added a regression test, so exported values retain the precision of the original model. **Merged 19 October 2026.**
-
-**[Microsoft Java Debug · #648 · Merged ↗](https://github.com/microsoft/java-debug/pull/648)**
-
-Corrected the event order during hot code replacement so the debugger UI consistently reflects a suspended thread. **Merged 2 November 2026.**
+| Pull request | Contribution |
+| :--- | :--- |
+| [Google Gson #3173](https://github.com/google/gson/pull/3173) | Documented custom serializers and deserializers using `java.time.Instant`. |
+| [Google Gson #3147](https://github.com/google/gson/pull/3147) | Increased the initial buffer capacity for APIs that serialize JSON to strings. |
+| [Google OR-Tools #5501](https://github.com/google/or-tools/pull/5501) | Preserved floating-point precision in MPS model exports and added a regression test. |
+| [Microsoft GCToolKit #598](https://github.com/microsoft/gctoolkit/pull/598) | Corrected Maven dependency coordinates and the badge link in the README. |
+| [Microsoft GCToolKit #593](https://github.com/microsoft/gctoolkit/pull/593) | Fixed first-event timestamp tracking so a zero fallback no longer masks the actual timestamp. |
+| [Microsoft Java Debug #648](https://github.com/microsoft/java-debug/pull/648) | Corrected hot code replacement event order so the debugger UI reflects a suspended thread. |
 
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
 
