@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 292" role="img">
+<defs><linearGradient id="ink"><stop stop-color="#101c14"/><stop offset="1" stop-color="#06100c"/></linearGradient><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#759275" stroke-opacity=".12"/></pattern></defs>
+<rect width="1000" height="292" rx="16" fill="url(#ink)"/>
+<rect width="1000" height="292" rx="16" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="290" rx="15" fill="none" stroke="#6f5f36"/>
+<style>.flow{stroke-dasharray:26 450;animation:travel 4s linear infinite}@keyframes travel{to{stroke-dashoffset:-476}}@media(prefers-reduced-motion:reduce){.flow{animation:none;display:none}}</style><path d="M0 240H1000" fill="none" stroke="#648970" stroke-width="2"/><path class="flow" d="M0 240H1000" fill="none" stroke="#b8ff99" stroke-width="4" stroke-linecap="round" style="animation-delay:-0s"/>
+<path d="M440 240H490Q520 240 550 215H1000" fill="none" stroke="#648970" stroke-width="2"/><path class="flow" d="M440 240H490Q520 240 550 215H1000" fill="none" stroke="#f4bc62" stroke-width="4" stroke-linecap="round" style="animation-delay:-0.6s"/>
+<path d="M600 240H665Q690 240 717 264H1000" fill="none" stroke="#648970" stroke-width="2"/><path class="flow" d="M600 240H665Q690 240 717 264H1000" fill="none" stroke="#b8ff99" stroke-width="4" stroke-linecap="round" style="animation-delay:-1.2s"/><path d="M756 157 C740 111 748 71 781 41 C764 85 782 105 797 124 L826 124 C842 105 859 85 843 41 C876 71 884 111 868 157 L846 181 L779 181 Z" fill="#ba9149" stroke="#f4d38b" stroke-width="3"/>
+<path d="M766 153 L813 138 L858 153 L837 174 L788 174 Z" fill="#132c20"/>
+<circle cx="812" cy="119" r="94" fill="none" stroke="#b58d49" stroke-opacity=".55" stroke-dasharray="3 7"/>
+<g font-family="monospace"><text x="62" y="76" fill="#d2aa65" font-size="22" letter-spacing="4">TVA / VARIANT RECORD</text><text x="58" y="142" fill="#f9e6b8" font-size="65" font-weight="bold">HARSH BHARDWAJ</text><text x="62" y="184" fill="#b1e99e" font-size="24">@Mr-KnightCLI / Java developer</text></g>
+</svg>
