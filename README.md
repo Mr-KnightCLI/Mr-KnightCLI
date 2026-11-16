@@ -1,4 +1,7 @@
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/hero-still.svg"><img src="assets/loki/hero.svg" width="100%" alt="Harsh Bhardwaj, Mr-KnightCLI. Loki-inspired TVA record with golden horns and branching green timelines."></picture></p>
+<p align="center">
+  <img src="https://www.framestore.com/sites/default/files/2023-12/Loki-S2-Case-Study-Header-1980x820.jpg" width="100%" alt="Tom Hiddleston as Loki in a TVA room as its timeline unravels. Production still via Framestore.">
+  <img src="assets/loki/title.svg" width="100%" alt="Harsh Bhardwaj — Java and open source">
+</p>
 
 <p align="center">
   <a href="#github-activity">GITHUB</a> &nbsp;·&nbsp;
@@ -11,9 +14,9 @@ I’m **Harsh Bhardwaj**, a Computer Science and Engineering student focused on 
 
 ## GitHub activity
 
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/timeline-still.svg"><img src="assets/loki/timeline.svg" width="100%" alt="Animated upstream timeline. The Google and Microsoft branches each contain three merged pull requests."></picture></p>
-
 [Contribution history](https://github.com/Mr-KnightCLI?tab=overview) · [Public repositories](https://github.com/Mr-KnightCLI?tab=repositories) · [Merged upstream pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AMr-KnightCLI+-user%3AMr-KnightCLI)
+
+<img src="assets/loki/thread.svg" width="100%" alt="">
 
 ## Current focus
 
@@ -23,21 +26,23 @@ I’m **Harsh Bhardwaj**, a Computer Science and Engineering student focused on 
 
 ## Projects
 
-<a href="https://github.com/Mr-KnightCLI/jredis"><img src="assets/loki/jredis.svg" width="100%" alt="JRedis — Java 21 / TCP / RESP2"></a>
+<a href="https://github.com/Mr-KnightCLI/jredis"><img src="assets/loki/jredis-motion.svg" width="100%" alt="JRedis — Java 21 / TCP / RESP2"></a>
 
 Educational Redis-compatible server with key expiry, concurrent clients, and optional append-only recovery. [View JRedis](https://github.com/Mr-KnightCLI/jredis)
 
-<a href="https://github.com/Mr-KnightCLI/cove-clipboard"><img src="assets/loki/cove-clipboard.svg" width="100%" alt="Cove — Java / Spring Boot / WebSockets / H2"></a>
+<a href="https://github.com/Mr-KnightCLI/cove-clipboard"><img src="assets/loki/cove-clipboard-motion.svg" width="100%" alt="Cove — Java / Spring Boot / WebSockets / H2"></a>
 
 Text-only clipboard with private links, live updates, and 24-hour expiry. [View Cove](https://github.com/Mr-KnightCLI/cove-clipboard)
 
-<a href="https://github.com/Mr-KnightCLI/ApplyFlow"><img src="assets/loki/applyflow.svg" width="100%" alt="ApplyFlow — Java 21 / Spring Data JPA / H2"></a>
+<a href="https://github.com/Mr-KnightCLI/ApplyFlow"><img src="assets/loki/applyflow-motion.svg" width="100%" alt="ApplyFlow — Java 21 / Spring Data JPA / H2"></a>
 
 Job application tracker with a stage board, filters, and follow-up reminders. [View ApplyFlow](https://github.com/Mr-KnightCLI/ApplyFlow)
 
-<a href="https://github.com/Mr-KnightCLI/tabtamer"><img src="assets/loki/tabtamer.svg" width="100%" alt="TabTamer — TypeScript / Next.js / Tailwind CSS"></a>
+<a href="https://github.com/Mr-KnightCLI/tabtamer"><img src="assets/loki/tabtamer-motion.svg" width="100%" alt="TabTamer — TypeScript / Next.js / Tailwind CSS"></a>
 
 Bookmark library with search, collections, tags, and a Chrome and Edge extension. [View TabTamer](https://github.com/Mr-KnightCLI/tabtamer)
+
+<img src="assets/loki/thread.svg" width="100%" alt="">
 
 ## Tech stack
 
@@ -49,6 +54,8 @@ Bookmark library with search, collections, tags, and a Chrome and Edge extension
 | Build and test | Maven · JUnit 5 · Git · GitHub · pnpm |
 
 ## Open source
+
+<img src="assets/loki/contributions.svg" width="100%" alt="Branching timeline showing three Google and three Microsoft pull requests merged.">
 
 **Six merged pull requests across Google and Microsoft repositories.**
 
@@ -68,8 +75,12 @@ Bookmark library with search, collections, tags, and a Chrome and Edge extension
 
 </details>
 
+<img src="assets/loki/thread.svg" width="100%" alt="">
+
 ## Contact
 
 I’m open to talking about Java, backend projects, and open-source collaboration.
 
 [GitHub profile](https://github.com/Mr-KnightCLI) · [Public pull requests](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)
+
+<sub>Hero still from Marvel Studios’ <i>Loki</i>, via <a href="https://www.framestore.com/work/loki-season-2">Framestore</a>. TVA title design reference by <a href="https://www.youtube.com/watch?v=13Qf8-PvsIQ">Perception</a>.</sub>
