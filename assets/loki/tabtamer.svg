@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 122" role="img">
+<defs><linearGradient id="ink"><stop stop-color="#101c14"/><stop offset="1" stop-color="#06100c"/></linearGradient><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#759275" stroke-opacity=".12"/></pattern></defs>
+<rect width="1000" height="122" rx="16" fill="url(#ink)"/>
+<rect width="1000" height="122" rx="16" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="120" rx="15" fill="none" stroke="#6f5f36"/>
+<path d="M0 90H46L76 60H104 M692 94H844L878 60H1000" fill="none" stroke="#81b775" stroke-width="2"/><circle cx="104" cy="60" r="5" fill="#f4bc62"/><circle cx="844" cy="94" r="5" fill="#f4bc62"/><g font-family="monospace"><text x="130" y="57" font-size="39" fill="#f9e6b8">TabTamer</text><text x="132" y="90" font-size="22" fill="#b1e99e">TypeScript / Next.js / Tailwind CSS</text><text x="897" y="99" font-size="18" fill="#d2aa65">04 / 04</text></g>
+</svg>

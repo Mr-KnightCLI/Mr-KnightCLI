@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 226" role="img">
+<defs><linearGradient id="ink"><stop stop-color="#101c14"/><stop offset="1" stop-color="#06100c"/></linearGradient><pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#759275" stroke-opacity=".12"/></pattern></defs>
+<rect width="1000" height="226" rx="16" fill="url(#ink)"/>
+<rect width="1000" height="226" rx="16" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="224" rx="15" fill="none" stroke="#6f5f36"/>
+<path d="M45 137H283C380 137 367 91 464 91H699" fill="none" stroke="#648970" stroke-width="2"/>
+<path d="M45 137H283C380 137 367 182 464 182H657" fill="none" stroke="#648970" stroke-width="2"/>
+<path d="M283 137H544" fill="none" stroke="#648970" stroke-width="2"/><g font-family="monospace" fill="#f9e6b8" font-size="27"><text x="46" y="58">UPSTREAM TIMELINE</text><text x="724" y="104">GOOGLE / 3 MERGED</text><text x="678" y="195">MICROSOFT / 3 MERGED</text></g><circle cx="283" cy="137" r="7" fill="#f4bc62"/>
+</svg>
