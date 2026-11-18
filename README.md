@@ -1,17 +1,10 @@
-<picture>
-  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/moonlight-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlight-banner.svg">
-  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile-featured.svg">
-  <img src="assets/moonlight-banner-featured.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
-</picture>
+![Midnight Mission — Harsh Bhardwaj, Java developer. A hooded Moon Knight portrait beneath a silver crescent.](assets/midnight-field-journal.svg)
 
-# The Midnight Mission
+# Behind the mask
 
 I'm Harsh, the Java developer behind **Mr-KnightCLI**. I build backend services and like tracing what happens after a request arrives, from the first byte on a socket to the last write on disk.
 
 [Case files](#case-files) · [Merged contributions](#merged-contributions) · [The armory](#the-armory)
-
-![Midnight Mission field journal, with a silver crescent rising over the pyramids](assets/midnight-field-journal.svg)
 
 ## Case files
 
@@ -45,6 +38,13 @@ I'm Harsh, the Java developer behind **Mr-KnightCLI**. I build backend services 
 [All public pull requests](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)
 
 </details>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/moonlight-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlight-banner.svg">
+  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile-featured.svg">
+  <img src="assets/moonlight-banner-featured.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
+</picture>
 
 ## The armory
 
