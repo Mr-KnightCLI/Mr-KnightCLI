@@ -1,58 +1,26 @@
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/variant-title.png"><img src="https://media1.tenor.com/m/tZWLp8dN4DEAAAAd/loki-finale-loki-god-of-stories.gif" width="100%" alt="Animated Loki Season 2 finale close-up of Loki wearing his horned crown."></picture></p>
-
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/variant-title.png"><img src="assets/loki/variant-title.gif" width="100%" alt="Harsh Bhardwaj, Java developer. An animated golden crown with green timeline branches."></picture></p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/moonlight-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/moonlight-banner.svg">
+  <source media="(max-width: 600px)" srcset="assets/moonlight-mobile-featured.svg">
+  <img src="assets/moonlight-banner-featured.svg" width="1200" alt="Harsh / Mr-KnightCLI. Code by moonlight. Java, full-stack development and open source, with Moon Knight artwork.">
+</picture>
 
 <p align="center">
-  <a href="#github-activity">GITHUB</a> &nbsp;·&nbsp;
-  <a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
-  <a href="#open-source">OPEN SOURCE</a> &nbsp;·&nbsp;
-  <a href="#contact">CONTACT</a>
+  <a href="#merged-missions--google--microsoft">Merged missions</a> &nbsp;·&nbsp;
+  <a href="#behind-the-mask">Behind the mask</a> &nbsp;·&nbsp;
+  <a href="#the-armory">The armory</a> &nbsp;·&nbsp;
+  <a href="#case-files">Case files</a> &nbsp;·&nbsp;
+  <a href="#the-midnight-mission">The midnight mission</a>
 </p>
 
-I’m **Harsh Bhardwaj**, a Computer Science and Engineering student focused on **Java, backend development, and open source**. I build practical web apps and use side projects to learn what happens beneath an API, from socket connections to database writes.
+## Merged missions — Google & Microsoft
 
-## GitHub activity
-
-[Contribution history](https://github.com/Mr-KnightCLI?tab=overview) · [Public repositories](https://github.com/Mr-KnightCLI?tab=repositories) · [Merged upstream pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AMr-KnightCLI+-user%3AMr-KnightCLI)
-
-## Current focus
-
-- **Java backend development** with Spring Boot, REST APIs, and persistence.
-- **Systems fundamentals** through a Redis-compatible server, TCP sockets, and concurrency.
-- **Open-source maintenance** through focused fixes, regression tests, and documentation.
-
-## Projects
-
-<a href="https://github.com/Mr-KnightCLI/jredis"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/jredis-loop.png"><img src="assets/loki/jredis-loop.gif" width="100%" alt="JRedis — Java 21 / TCP / RESP2"></picture></a>
-
-Educational Redis-compatible server with key expiry, concurrent clients, and optional append-only recovery. [View JRedis](https://github.com/Mr-KnightCLI/jredis)
-
-<a href="https://github.com/Mr-KnightCLI/cove-clipboard"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/cove-clipboard-loop.png"><img src="assets/loki/cove-clipboard-loop.gif" width="100%" alt="Cove — Java / Spring Boot / WebSockets / H2"></picture></a>
-
-Text-only clipboard with private links, live updates, and 24-hour expiry. [View Cove](https://github.com/Mr-KnightCLI/cove-clipboard)
-
-<a href="https://github.com/Mr-KnightCLI/ApplyFlow"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/applyflow-loop.png"><img src="assets/loki/applyflow-loop.gif" width="100%" alt="ApplyFlow — Java 21 / Spring Data JPA / H2"></picture></a>
-
-Job application tracker with a stage board, filters, and follow-up reminders. [View ApplyFlow](https://github.com/Mr-KnightCLI/ApplyFlow)
-
-<a href="https://github.com/Mr-KnightCLI/tabtamer"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/tabtamer-loop.png"><img src="assets/loki/tabtamer-loop.gif" width="100%" alt="TabTamer — TypeScript / Next.js / Tailwind CSS"></picture></a>
-
-Bookmark library with search, collections, tags, and a Chrome and Edge extension. [View TabTamer](https://github.com/Mr-KnightCLI/tabtamer)
-
-## Tech stack
-
-| Area | Tools |
-| :--- | :--- |
-| Languages | Java · TypeScript · JavaScript |
-| Frontend | Next.js · Tailwind CSS · HTML · CSS |
-| Backend and data | Spring Boot · REST APIs · Spring Data JPA · WebSockets · H2 |
-| Build and test | Maven · JUnit 5 · Git · GitHub · pnpm |
-
-## Open source
-
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/loki/sacred-timeline.png"><img src="assets/loki/sacred-timeline.gif" width="100%" alt="Animated timeline branches showing three merged Google PRs and three merged Microsoft PRs."></picture>
-
-**Six merged pull requests across Google and Microsoft repositories.**
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/merged-missions-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/merged-missions-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/merged-missions-mobile.svg">
+  <img src="assets/merged-missions.svg" width="1200" alt="Featured merged contributions: Google OR-Tools #5501, 19 October 2026; Microsoft Java Debug #648, 2 November 2026.">
+</picture>
 
 | Pull request | Contribution |
 | :--- | :--- |
@@ -63,17 +31,104 @@ Bookmark library with search, collections, tags, and a Chrome and Edge extension
 | [Microsoft GCToolKit #593](https://github.com/microsoft/gctoolkit/pull/593) | Fixed first-event timestamp tracking so a zero fallback no longer masks the actual timestamp. |
 | [Microsoft Java Debug #648](https://github.com/microsoft/java-debug/pull/648) | Corrected hot code replacement event order so the debugger UI reflects a suspended thread. |
 
-<details>
-<summary>Another branch of the timeline</summary>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
 
-[Open Source Radar #199](https://github.com/TanbirRamim/open-source-radar/pull/199) — Extracted the stale-claim rule into a shared helper and tested cutoff cases. **Merged.**
+## Behind the mask
 
-</details>
+### Hey, I'm Harsh — the developer behind Mr-KnightCLI. 🌙
 
-## Contact
+**Java is my first choice. Building something useful is the mission.**
 
-I’m open to talking about Java, backend projects, and open-source collaboration.
+I build backend systems, web apps, and practical tools that turn everyday friction into working software. Sometimes that means a clipboard that connects devices. Sometimes it means digging into sockets, persistence, and what happens underneath an API.
 
-[GitHub profile](https://github.com/Mr-KnightCLI) · [Public pull requests](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)
+Moon Knight brings the atmosphere; the code tells my story. I like projects where I can follow a request from the interface to the database, understand the moving parts, and write tests for the details that are easy to miss.
 
-<sub>Loki finale GIF via <a href="https://tenor.com/view/loki-finale-loki-god-of-stories-loki-glorious-purpose-gif-13084517845114413105">Tenor / Blrrd22</a>. Timeline art inspired by <a href="https://www.framestore.com/work/loki-season-2">Framestore’s Loki Season 2 VFX</a>.</sub>
+- **My main language:** Java, especially for backend services and exploring how systems work.
+- **On the web:** TypeScript and JavaScript for interfaces, browser tools, and full-stack apps.
+- **What I'm working on:** practical Java projects and open-source fixes with clear reproduction steps and regression tests.
+
+> One developer behind the mask. Plenty of problems worth solving.
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
+## The armory
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/armory-orbit-still.svg"><img src="assets/armory-orbit.svg" width="1200" alt="Java at the core. Spring Boot and REST APIs, TypeScript and Next.js, WebSockets and H2, Maven and JUnit 5."></picture>
+
+| What I reach for | Tools I use |
+| :--- | :--- |
+| **Core language** | `Java` |
+| **Web languages** | `TypeScript` · `JavaScript` · `HTML` · `CSS` |
+| **Backend** | `Spring Boot` · `REST APIs` · `WebSockets` · `Spring Data JPA` |
+| **Frontend** | `Next.js` · `Tailwind CSS` |
+| **Data & protocols** | `H2` · `TCP sockets` · `RESP2` |
+| **Build, test & ship** | `Maven` · `JUnit 5` · `Git` · `GitHub` · `Node.js` · `pnpm` |
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
+## Case files
+
+Four projects. Four different reasons to open the editor.
+
+### 01 / [JRedis](https://github.com/Mr-KnightCLI/jredis) — Beneath the protocol
+
+**What does a key-value server actually do after you hit Enter?**
+
+An educational Java 21 server implementing a useful subset of Redis over RESP2: expiring keys, concurrent clients, command validation, and optional append-only recovery. Built to explore the machinery, with a deliberately limited scope.
+
+`Java 21` · `TCP sockets` · `RESP2` · `Persistence`
+
+### 02 / [Cove](https://github.com/Mr-KnightCLI/cove-clipboard) — A signal between devices
+
+**A note on one device. Ready on the next.**
+
+A text-only clipboard for sharing notes and links through private URLs. Includes live WebSocket updates, H2 persistence, and 24-hour expiry, served from a single Spring Boot app.
+
+`Java` · `Spring Boot` · `WebSockets` · `H2`
+
+### 03 / [ApplyFlow](https://github.com/Mr-KnightCLI/ApplyFlow) — Keep the next move in view
+
+**Applications, interviews, and follow-ups deserve more than scattered notes.**
+
+A job-application tracker with a dashboard, stage board, filters, and follow-up reminders. One Spring Boot application connects the browser interface, REST API, and database.
+
+`Java 21` · `Spring Data JPA` · `H2` · `JUnit 5`
+
+### 04 / [TabTamer](https://github.com/Mr-KnightCLI/tabtamer) — Bring order to the open tabs
+
+**Save the useful link before it disappears into tab number forty.**
+
+A bookmark library with collections, tags, notes, and search, plus a Chrome/Edge extension for saving the current tab. Built with Next.js and a JSON-backed library for local or single-server use.
+
+`TypeScript` · `Next.js` · `Tailwind CSS` · `Browser extension`
+
+**[Explore all my repositories →](https://github.com/Mr-KnightCLI?tab=repositories)**
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
+## The midnight mission
+
+Building my own projects is one part of the story. Contributing fixes, tests, and documentation to other projects is another.
+
+| Contribution | What I worked on | Status¹ |
+| :--- | :--- | :--- |
+| [Microsoft Java Debug #648](https://github.com/microsoft/java-debug/pull/648) | Fixed hot code replacement event order so the debugger reports the correct suspended state. | **Merged** |
+| [Google OR-Tools #5501](https://github.com/google/or-tools/pull/5501) | Preserved floating-point precision in MPS exports and added a regression test. | **Merged** |
+| [Open Source Radar #199](https://github.com/TanbirRamim/open-source-radar/pull/199) | Extracted the stale-claim rule into a shared helper and tested cutoff cases. | **Merged** |
+| [nl2sql-java #10](https://github.com/alok26sinha/nl2sql-java/pull/10) | Added verified SQLite examples for e-commerce, logistics, and HR, with Java tests. | Open |
+| [nl2sql-java #11](https://github.com/alok26sinha/nl2sql-java/pull/11) | Fixed failed example saves remaining active in memory; added regression coverage. | Open |
+
+<sub>¹ Selected contributions; statuses checked 11 November 2026. Each link leads to the current discussion.</sub>
+
+**[Follow my public pull requests →](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)**
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/lunar-signal-still.svg"><img src="assets/lunar-signal.svg" width="1200" alt=""></picture>
+
+## Leave a signal
+
+Interested in Java, a useful little tool, or a project we could improve together? Explore a repository, open an issue, or join a discussion on one of my pull requests.
+
+**[Projects](https://github.com/Mr-KnightCLI?tab=repositories)** &nbsp; / &nbsp; **[Contributions](https://github.com/pulls?q=is%3Apr+author%3AMr-KnightCLI)** &nbsp; / &nbsp; **[GitHub profile](https://github.com/Mr-KnightCLI)**
+
+<p align="center"><sub>☾ &nbsp; Build with curiosity. Test with intent. Keep the mission moving. &nbsp; ☽</sub></p>
+<p align="center"><sub>Moon Knight inspired · Independent developer profile · <a href="ASSET-CREDITS.md">Artwork & references</a></sub></p>
